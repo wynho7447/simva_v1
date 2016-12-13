@@ -38,5 +38,5 @@
 //	include 'script_texts.php';
 	
 	include 'includes/bottom.php';
-	
-?>
+	//truong tu anh
+?> 
